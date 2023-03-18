@@ -97,11 +97,15 @@ h1 {
 
 .button {
     width: 32px;
-    margin: 10px;
+    margin: 10px 5px;
     fill: white;
     border: 3px solid white;
     padding: 13px;
     border-radius: 5em;
+}
+
+.button.instagram {
+    width:29px;
 }
 
 
