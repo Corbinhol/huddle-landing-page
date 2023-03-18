@@ -49,6 +49,7 @@ main {
 .mockup {
     margin: 0 4em 0 7em;
     width: 40vw;
+    height:fit-content
 }
 
 p {
@@ -119,6 +120,10 @@ h1 {
     position: absolute;
     bottom: 1em;
     right: 5em;
+}
+
+.footer {
+    min-height: 50px;
 }
 
 @media screen and (max-width:768px) {
