@@ -78,6 +78,10 @@ h1 {
     border-radius: 5em;
     background-color: white;
     color: var(--background-color);
+
+    box-shadow: 10px 7px 22px -11px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 7px 22px -11px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 7px 22px -11px rgba(0,0,0,0.75);
 }
 
 .main-text {
